@@ -1,3 +1,3 @@
-"""javascript
-console.log("HELLO WORLD!");
-"""
+```javascript
+console.log("Hello, World!")
+```
